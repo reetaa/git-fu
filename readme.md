@@ -4,4 +4,4 @@ Is Git smart enough to automatically apply the changes I made to basicFile onto 
 
 ### Answer
 - This particular scenario ends up in merge conflict.
-https://github.com/reetaa/git-fu/pull/2
+https://github.com/reetaa/git-fu/pull
